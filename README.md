@@ -2,9 +2,9 @@
 
 ## Sobre Mim
 
-👨‍💻 Desenvolvedor Full-Stack.
-🎓 Estudando no BootCamp Bradesco - Java Cloud Native pela Digital Inovation One  
-🚀 Focado em aprender.
+- 👨‍💻 Desenvolvedor Full-Stack.
+- 🎓 Estudando no BootCamp Bradesco - Java Cloud Native pela Digital Inovation One  
+- 🚀 Focado em aprender.
 
 ## Habilidades
 
