@@ -5,7 +5,6 @@
 👨‍💻 Desenvolvedor Full-Stack apaixonado por tecnologia e inovação.  
 🎓 Estudando no BootCamp Bradesco - Java Cloud Native pela Digital Inovation One  
 🚀 Focado em aprender.
-🌍 Moro em Arapoti, PR. 
 
 ## Habilidades
 
