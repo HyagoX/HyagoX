@@ -2,8 +2,7 @@
 
 ## Sobre Mim
 
-- 👨‍💻 Desenvolvedor Full-Stack.
-- 🎓 Estudando no BootCamp Bradesco - Java Cloud Native pela Digital Inovation One  
+- 👨‍💻 Iniciando em Front-End
 - 🚀 Focado em aprender.
 
 ## Habilidades
@@ -14,11 +13,9 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 
 ### Outras Habilidades
 
-- Banco de Dados (SQL/NoSQL)
 - Versionamento de Código com Git
 
 ## Contato
@@ -28,7 +25,7 @@
 
 ## Curiosidades
 
-- 🎮 Gosto de jogar Valorant nas horas vagas.
-- 📚 Sempre lendo algo novo, atualmente lendo A metamorfose.
+- 🎮 Gosto de jogar Warzone nas horas vagas.
+- 📚 Sempre lendo algo novo, atualmente lendo Carta ao pai, por Franz Kafka.
 
 ---
