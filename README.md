@@ -2,8 +2,9 @@
 
 ## Sobre Mim
 
-- 👨‍💻 Iniciando em Front-End
-- 🚀 Focado em aprender.
+- 💻 Básico em Front-End
+- 👨‍💻 Iniciando em Back-End - Python
+  
 
 ## Habilidades
 
@@ -13,6 +14,7 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 ### Outras Habilidades
 
@@ -26,6 +28,6 @@
 ## Curiosidades
 
 - 🎮 Gosto de jogar Warzone nas horas vagas.
-- 📚 Sempre lendo algo novo, atualmente lendo Carta ao pai, por Franz Kafka.
+- 📚 Sempre lendo algo novo, atualmente lendo Cosmos, por Carl Sagan.
 
 ---
