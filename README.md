@@ -3,7 +3,6 @@
 ## Sobre Mim
 
 - 💻 Básico em Front-End
-- 👨‍💻 Iniciando em Back-End - Python
   
 
 ## Habilidades
